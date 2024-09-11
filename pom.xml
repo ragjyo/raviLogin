@@ -4,7 +4,7 @@
     <groupId>wipro.raviLogin</groupId>
     <artifactId>raviLogin</artifactId>
     <packaging>war</packaging>
-    <version>1</version>
+    <version>1.0</version>
     <name>raviLogin</name>
     <url>http://maven.apache.org</url>
     <properties>
